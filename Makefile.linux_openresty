@@ -7,7 +7,7 @@ LUA_LIBDIR=$(PREFIX)/lualib
 # System's lua directory (where Lua libraries are installed)
 LUA_DIR=$(PREFIX)/luajit/lib/lua/5.1
 
-LUAINC=$(PREFIX)/luajit/include/luajit-2.0
+LUAINC=$(PREFIX)/luajit/include/luajit-2.1
 LUALIB=$(PREFIX)/luajit/lib
 
 CC=gcc
