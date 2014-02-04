@@ -2,7 +2,7 @@ NAME
     yaml - Lua YAML serialization using LibYAML
 
 SYNOPSIS
-    require 'yaml'
+    require 'lyaml'
 
     serialized = yaml.dump({ 1, 2, 3, 4 })
     content = yaml.load(serialized)
